@@ -1,0 +1,6 @@
+# robots.txt for IDGafetes
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.idgafetes.com/sitemap.xml
